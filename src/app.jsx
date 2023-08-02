@@ -1,7 +1,7 @@
 export const App = () => {
   return (
     <>
-      <h1>Bootcamps JS - React JavaScript SandBox</h1>
+      <h1>Bootcamps JS - JavaScript React SandBox</h1>
     </>
   );
 };
